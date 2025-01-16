@@ -1,7 +1,7 @@
 ### Práctica Visualización de datos. Máster en Ciencia de Datos UOC.
 
-En ella exploraremos distintas preguntas clave con visualizaciones basadas en el dataset:
-**Predict Student’s Dropout and Academic Success**
+En ella exploraremos distintas preguntas clave con visualizaciones basadas en el dataset:\
+**Predict Student’s Dropout and Academic Success**\
 https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
 
 
